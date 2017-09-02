@@ -1,0 +1,17 @@
+html {
+    font-family: 'Playfair Display', serif;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+}
+
+#container {
+    height: 100vh;
+    min-height: 500px;
+}
+
+#movies {
+    background-color: #eee;
+}
+
